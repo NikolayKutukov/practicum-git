@@ -1,0 +1,1 @@
+__This is a repository for GIT course__
